@@ -1,0 +1,16 @@
+{
+  "name": "lkdcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss":"sass --watch scss/custom.scss:css/lkd_b5.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
